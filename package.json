@@ -1,6 +1,6 @@
 {
   "name": "iloveagents",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
   "main": "src/index.js",
   "scripts": {
